@@ -1,0 +1,30 @@
+.stadium{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.seat{
+  width: 25px;
+  height: 25px;
+  margin: 2%;
+  border-radius: 25%;
+}
+
+.empty{
+  background-color: red;
+}
+
+.occupied{
+  background-color: black;
+}
+
+.Stand{
+  opacity: 0.7;
+  transition: 0.3s;
+}
+
+
+.Stand:hover {
+  opacity: 1;
+  cursor: pointer;
+}
