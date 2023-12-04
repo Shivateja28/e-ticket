@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/e-ticket/static/css/main.7d774ce6.css",
+    "main.js": "/e-ticket/static/js/main.b68b2634.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/e-ticket/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/ICCCWC23.svg": "/e-ticket/static/media/ICCCWC23.86d8ea07ded2e5523c44c60464ff9dfd.svg",
+    "index.html": "/e-ticket/index.html",
+    "main.7d774ce6.css.map": "/e-ticket/static/css/main.7d774ce6.css.map",
+    "main.b68b2634.js.map": "/e-ticket/static/js/main.b68b2634.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/e-ticket/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d774ce6.css",
+    "static/js/main.b68b2634.js"
+  ]
+}
